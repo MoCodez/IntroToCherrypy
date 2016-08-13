@@ -4,9 +4,8 @@
     creating a test harness for testing the app from a shell CLI
 """
 
-
-
 import cherrypy
+
 
 class Root(object):
     """ This implements our application class
