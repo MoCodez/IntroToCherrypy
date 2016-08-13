@@ -1,7 +1,8 @@
-Programmers Tutorial for the Cherrypy Web Server
+#Directory of Useful Links
+###Programmers Tutorial for the Cherrypy Web Server
 
-http://www.cherrypy.org/
+Home Page:[http://www.cherrypy.org/]
 
-http://docs.cherrypy.org/en/latest/tutorials.html
+Official Tutorial:[http://docs.cherrypy.org/en/latest/tutorials.html]
 
-http://docs.cherrypy.org/en/latest/index.html
+Reference Manual:[http://docs.cherrypy.org/en/latest/index.html]
