@@ -13,9 +13,11 @@ Takes about 4 hours start to finish if you do your own typing.
 - - -
 **OFFICIAL** Cherrypy:
 
-Lots and lots of [Cherrypy](http://www.cherrypy.org/) right here!
+Lots and lots of [Cherrypy right here!](http://www.cherrypy.org/)
 
-Work through the [Official Tutorial](http://docs.cherrypy.org/en/latest/tutorials.html) (it takes longer!)
+Work through the [Official Tutorial](http://docs.cherrypy.org/en/latest/tutorials.html) (It takes longer!)
+
+Even more [Cherrypy on Github](https://github.com/cherrypy)
 
 Study the Documentation:
  [Docs: Basics](http://docs.cherrypy.org/en/latest/basics.html)
@@ -23,5 +25,10 @@ Study the Documentation:
  | [Docs: Advanced!](http://docs.cherrypy.org/en/latest/advanced.html)
  | [Docs: Deployment](http://docs.cherrypy.org/en/latest/deploy.html)
 - - -
+**UN-OFFICIAL** Cherrypy:
 
+Learn some tasty [Cherrypy Recipes](https://bitbucket.org/Lawouach/cherrypy-recipes/src/) These are old but worth a review.
+
+High Speed Programmers [Tutorial to Application](https://mopig-pnw.github.io/IntroToCherrypy/)
+- - -
 Special Thanks to [Module Master](https://modulemaster.com/rebuilds/about-us/) LLC for partially sponsoring my work on this tutorial.
