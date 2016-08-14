@@ -31,13 +31,13 @@ class CRUD_WebService(object):
 if __name__ == "__main__":
     server_config = {
         '/' : {
-            "tools.staticdir.root": True
+            "tools.staticdir.root": os.path.abspath(os.getcwd()) 
             },
         "/static" : {
             "tools.staticdir.on": True,
-            "tools.staticdir": "./static_pages"
+            "tools.staticdir": "./CRUD-Pie_pages"
             }
         }
-    webapp = CRUD()
-    webapp.generator = CRUD_WebService()
-    cherrypy.quickstart(webapp, '/', server_config)
+    CRUDapp = CRUD()
+    CRUDapp.generator = CRUD_WebService()
+    cherrypy.quickstart(CRUDapp, '/', server_config)
